@@ -1,6 +1,6 @@
 # :pushpin:Poe2smoother:pushpin:
+https://github.com/user-attachments/assets/9138ebe1-c191-475f-b4cb-3a455a2125a7
 
-  <source src="[video.mp4](https://github.com/user-attachments/assets/6f29237d-7dd7-432d-b2dc-823c83e13286)" type="video/mp4">
 
 <li>• :white_check_mark:Fully working with Official/Steam/Garena/Tencent/Epic! - Windows/MAC/Linux (x64/arm)!
 
