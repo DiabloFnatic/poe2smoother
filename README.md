@@ -1,6 +1,6 @@
 # poe2smoother
 
-<video>https://github.com/user-attachments/assets/bfdb45c2-4a33-490e-bc8f-5a65552da243</video>
+https://github.com/user-attachments/assets/bfdb45c2-4a33-490e-bc8f-5a65552da243
 
 <li>• Fully working with Official/Steam/Garena/Tencent/Epic! - Windows/MAC/Linux (x64/arm)!
 
