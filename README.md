@@ -19,10 +19,10 @@ https://github.com/user-attachments/assets/6f29237d-7dd7-432d-b2dc-823c83e13286
 • :video_game:Skills::video_game:
 - disable any skill, or keep it visible, with skills panel.
 
-• GGPK Editor:
+• :pick:GGPK Editor::pick:
 - edit your own effects.
 
-• Soft options:
+•:gear:Soft options::gear:
 - remove soft microtransactions.
 - remove dead bodies.
 - remove drop items from floor.
@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/6f29237d-7dd7-432d-b2dc-823c83e13286
 - remove all effects from skills/items/monsters/environment.
 - remove all particles.
 
-• Advanced options:
+• :gear:Advanced options::gear:
 - full remove microtransactions.
 - remove players.
 - remove monsters.
