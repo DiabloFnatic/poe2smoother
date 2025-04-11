@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/6f29237d-7dd7-432d-b2dc-823c83e13286
 • :pick:GGPK Editor::pick:
 - edit your own effects.
 
-•:gear:Soft options::gear:
+• :wrench::Soft options:wrench:
 - remove soft microtransactions.
 - remove dead bodies.
 - remove drop items from floor.
