@@ -1,4 +1,4 @@
-# U+1F4CC Poe2smoother U+1F4CC
+# :boom: Poe2smoother :boom:
 <video width="640" height="480" controls>
   <source src="[video.mp4](https://github.com/user-attachments/assets/6f29237d-7dd7-432d-b2dc-823c83e13286)" type="video/mp4">
 </video>
